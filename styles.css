@@ -79,3 +79,62 @@ nav ul{
         border: 2px solid #FD6E0A;
         border-radius: 5px;
 }
+/* about me section styles */
+.about-me-section{
+       margin: 130px 230px;
+       background: #FFF8F3;
+       border-radius: 10px;
+}
+.section-title{
+        font-weight: 700;
+        font-size: 35px;
+        color: #181818;
+        text-align: center;
+        padding-top: 200px;
+}
+.section-description{
+       
+font-weight: 400;
+font-size: 18px;
+color: #757575;
+text-align: center;
+padding: 50px 156px;
+}
+.about-contact{
+        display: flex;
+        justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 60px;
+       
+}
+.about-sub-title{
+        color: #757575;
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+}
+
+/* what i do styles */
+.what-i-do-all{
+        display: flex;
+}
+.work-container{
+        margin: 0 230px;
+ 
+}
+.work-station{
+        display: flex;
+        justify-content: space-around;
+        gap: 25px;
+}
+.what-description{
+        color: #757575;
+        margin-top: 20px;
+       
+}
+.work-div{
+        background: #FFFFFF;
+        box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+        border-radius: 5px;
+        padding: 10px 33px;
+}
